@@ -1,0 +1,54 @@
+SPREAD OF CORONA VIRUS
+
+Total number of Pers for Isolation : 11
+1	Hav Devendra Pratap				7	99.38%	Zojila House (X7)
+2	Spr Somasekar				7	99.38%	Zojila House (X7)
+3	Hav K Appanna				4	95.0%	Co 201 Gypsy (X2), Zojila House (X2)
+4	Capt Suthari Swamynath				3	90.0%	Co 201 Office (X3)
+5	Lt Col K Yashvir Singh				3	90.0%	Co 201 Office (X3)
+6	Maj Tushar Nambiar				2	80.0%	Co 201 Office (X2)
+7	Brig Css Prakash				1	60.0%	Ce Office (X1)
+8	Capt Krithika S				1	60.0%	Co 201 Office (X1)
+9	Lt Col Pankaj Kushwaha				1	60.0%	Co 201 Office (X1)
+10	Nk Baji Shaik				1	60.0%	Co 201 Office (X1)
+11	Spr Dharmbir				1	60.0%	Co 201 Office (X1)
+
+Total number of Pers for Quarantine : 12
+1	Spr Tejveer Singh				6	58.75%	Kargil Room (X3), Capt Swamynath Residence (X2), 433 Coy Office (X1)
+2	Maj Yuvraj Khushal Gajbhiye				4	55.0%	Mto Office (X2), Adjt Office (X1), Barber Shop (X1)
+3	Maj Adarsh Singh				3	50.0%	433 Coy Cdr Office (X1), Adjt Office (X1), Zojila House (X1)
+4	Spr Balaji N				2	40.0%	433 Coy Cdr Gypsy (X2)
+5	Chm K Muthuraj				1	20.0%	433 Lunger (X1)
+6	Maj Asim Samantha				1	20.0%	Zojila House (X1)
+7	Nk Roy				1	20.0%	Barber Shop (X1)
+8	Spr Kesavan S				1	20.0%	It Cell (X1)
+9	Spr Manohar				1	20.0%	433 Coy Office (X1)
+10	Spr Mobilal Kp				1	20.0%	433 Coy Cdr Gypsy (X1)
+11	Sub Adinarayana				1	20.0%	433 Lunger (X1)
+12	Sub Maj Nijappa Sooji				1	20.0%	Zojila House (X1)
+
+Total number of Pers for Observation : 6
+1	Spr Bharamanna D				5	18.75%	Maj Asim Residence (X5)
+2	Sub Maj C Jayabhadran				4	17.5%	Epo Office (X4)
+3	Hav S Padmanabha Reddy				3	15.0%	Epo Office (X3)
+4	Nb Sub S K Sharma				2	10.0%	Epo Office (X2)
+5	Nk Bipeen Kumar				1	0.0%	Epo Office (X1)
+6	Spr Bharamanna Da				1	0.0%	Maj Asim Residence (X1)
+
+Rank of Place : 
+1	Zojila House				16	3	0	89	Lockdown and Sanitization
+2	Co 201 Office				12	0	0	60	Lockdown and Sanitization
+3	Co 201 Gypsy				2	0	0	10	Mandatory Sanitization
+4	Epo Office				0	0	10	10	Mandatory Sanitization
+5	433 Coy Cdr Gypsy				0	3	0	9	Mandatory Sanitization
+6	Kargil Room				0	3	0	9	Mandatory Sanitization
+7	433 Coy Office				0	2	0	6	Mandatory Sanitization
+8	433 Lunger				0	2	0	6	Mandatory Sanitization
+9	Adjt Office				0	2	0	6	Mandatory Sanitization
+10	Barber Shop				0	2	0	6	Mandatory Sanitization
+11	Capt Swamynath Residence				0	2	0	6	Mandatory Sanitization
+12	Maj Asim Residence				0	0	6	6	Mandatory Sanitization
+13	Mto Office				0	2	0	6	Mandatory Sanitization
+14	Ce Office				1	0	0	5	No Sanitization Required
+15	433 Coy Cdr Office				0	1	0	3	No Sanitization Required
+16	It Cell				0	1	0	3	No Sanitization Required
